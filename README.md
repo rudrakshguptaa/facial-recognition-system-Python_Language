@@ -1,4 +1,5 @@
 Facial Recognition Attendance System
+
 ****Project Overview****
 
 This project is a real-time attendance system using facial recognition technology. It identifies and records attendance for known faces from a live video feed, with separate logs for unknown faces.
