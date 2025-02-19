@@ -48,6 +48,10 @@ Submit a Pull Request: Once changes are complete, submit a pull request with a c
 Coding Standards: Follow PEP 8 for Python code style.
 Documentation: Update the documentation if your changes affect project usage.
 
+
+Thankyou. 
+Enjoy Coding!
+-Rudraksh Gupta
 ****Additional Notes****
 Data Privacy: Ensure compliance with privacy laws and policies when using personal face images.
 Customization: The project can be extended or modified to meet specific business or personal requirements.
